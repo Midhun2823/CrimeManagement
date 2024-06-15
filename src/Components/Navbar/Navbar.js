@@ -25,6 +25,7 @@ const Navbar = () => {
   const errorr = () => {
     // we have to remove the token
     toast.error("You Need To Login");
+    navigate("/");
   };
   const skip = () => {};
   return (
