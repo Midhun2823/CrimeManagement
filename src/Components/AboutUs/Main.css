@@ -1,0 +1,39 @@
+.about-us {
+  text-align: center;
+  margin-top: 50px;
+ color: rgb(249, 13, 17);
+ 
+}
+.about-us h1{
+background-color: chartreuse;
+}
+.student-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.student-card {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 20px;
+  margin: 5px;
+  width: 200px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.student-card h2 {
+  margin-bottom: 10px;
+  color: #500ae9;
+}
+
+.student-card p {
+  font-style: italic;
+  color: #666;
+}
+.hh h3 {
+  color:rgb(224, 100, 13) ;
+}
+.hh  p {
+ color: rgb(226, 35, 198);
+}
